@@ -25,8 +25,13 @@ The primary goal of this project is to develop a predictive model that can estim
 
 ### Technologies Used<br>
 **Python:** The primary programming language used for data analysis.<br>
+
 **Jupyter Notebook:** An interactive environment for running Python code and visualizing results.<br>
+
 **Pandas:** A library for data manipulation and analysis, providing data structures and functions needed to manipulate structured data seamlessly.<br>
+
 **NumPy:** A library for numerical computations, which provides support for arrays and matrices along with a collection of mathematical functions to operate on these arrays.<br>
+
 **Matplotlib:** A plotting library for creating static, interactive, and animated visualizations in Python.<br>
+
 **Seaborn:** A statistical data visualization library based on Matplotlib, providing a high-level interface for drawing attractive and informative statistical graphics.<br>
