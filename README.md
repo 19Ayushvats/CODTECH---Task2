@@ -16,9 +16,12 @@ The primary goal of this project is to develop a predictive model that can estim
 
 ### Key activities<br>
 **Data Collection and Preprocessing:** The dataset is sourced from publicly available real estate databases, which include historical house prices and related features,Handling missing values, outlier detection, and ensuring data consistency.<br>
+
 **Exploratory Data Analysis (EDA):** Using charts and graphs to understand the distribution of house prices and the relationship between features,identifying correlations and patterns within the data to inform model selection and parameter tuning.<br>
+
 **Model Development:** Implementing a linear regression algorithm to predict house prices based on the selected features,splitting the data into training and testing sets to evaluate the model's performance,adjusting model parameters to improve accuracy and reduce prediction errors.<br>
-**Model Evaluation:**  Using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared to assess the model's accuracy, conducting cross-validation to ensure the model's robustness and generalizability.
+
+**Model Evaluation:**  Using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared to assess the model's accuracy, conducting cross-validation to ensure the model's robustness and generalizability.<br>
 
 ### Technologies Used<br>
 **Python:** The primary programming language used for data analysis.<br>
